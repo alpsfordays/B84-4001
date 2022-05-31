@@ -2,7 +2,7 @@
 
 The B84-4001 keyboard PCB is a replacement (rejuvenation? revival?) PCB that makes use of the G84-4001's layout, switches, and keycaps and puts them into a subjectively more usable form. It was originally created as a personal project to make use of a new-old-stock controller-less G84 module (a G84-4001QAU/00).
 
-It supports one layout, the 83-key layout used by the aforementioned modules, though support for G84 variants with Windows keys may be added in future.
+It supports one layout, the 83-key layout used by the aforementioned modules, though support for G84 variants with Windows keys may be added in future. No promises.
 
 ![top](/Pictures/top.jpg)
 <img src="/Pictures/beauty_shot.jpg" width="640">
