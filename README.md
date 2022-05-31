@@ -54,7 +54,7 @@ I will not describe in excess detail how to solder or bend your leads here; ther
 ### Licenses
 
 All the software in this repository is licensed under the [GNU Public License,
-version 3](https://spdx.org/licenses/GPL-3.0-or-later.html).
+version 3](https://www.gnu.org/licenses/gpl-3.0-standalone.html).
 All the hardware designs and documentation is licensed under the [Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 license. 
