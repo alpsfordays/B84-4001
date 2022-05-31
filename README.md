@@ -58,3 +58,5 @@ version 3](https://www.gnu.org/licenses/gpl-3.0-standalone.html).
 All hardware designs and documentation is licensed under the [Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 license. 
+
+小豆鍵盤公司，2022。
