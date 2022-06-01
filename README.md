@@ -5,8 +5,8 @@ The B84-4001 keyboard PCB is a replacement (rejuvenation? revival?) PCB that mak
 It supports one layout, the 83-key layout used by the aforementioned modules, though support for G84 variants with Windows keys may be added in future. No promises.
 
 ![top](/Pictures/top.jpg)
-<img src="/Pictures/beauty_shot.jpg" width="640">
-<img src="/Pictures/pcb_layout.png" width="640">
+<img src="/Pictures/beauty_pic.jpg" width="640">
+<img src="/Pictures/pcb_screen.png" width="640">
 
 I will gladly assist or give tips on assembly, firmware or use (you can find me on Discord as `bean#7178`), but please first read this README through.
 
